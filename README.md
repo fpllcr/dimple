@@ -1,2 +1,8 @@
 # dimple
-Flutter app that allows the user to make discount calculations
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
